@@ -6,11 +6,13 @@ This is the repository for Final Project Submission.
 Our topic for the project is "Liver Disease Diagnosis/Prediction using machine learning classifiers".
 
 The group members are:
+Sagar Jaiswal
+
 Shivansh Raghuwanshi
 
 Shreyansh Jain
 
-Sagar Jaiswal
+
 
 The application has been deployed using Streamlit:
 
